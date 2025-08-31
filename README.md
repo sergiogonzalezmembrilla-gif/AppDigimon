@@ -1,3 +1,7 @@
+Esta aplicación web fue el proyecto final de mi grado de Dasarrollo de Aplicaciones Multiplataforma (DAM), los detalles están todos recogidos en el pdf llamado Applimon Connect_Modulo Proyecto DAM.pdf Applimon Connect_Modulo Proyecto DAM.
+
+La aplicación hace uso de la base de datos PostgreSQL y de Laravel, éste último es explicado aquí:
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
