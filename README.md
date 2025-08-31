@@ -1,4 +1,4 @@
-Esta aplicación web fue el proyecto final de mi grado de Dasarrollo de Aplicaciones Multiplataforma (DAM), los detalles están todos recogidos en el pdf llamado Applimon Connect_Modulo Proyecto DAM.pdf Applimon Connect_Modulo Proyecto DAM.
+Esta aplicación web fue el proyecto final de mi grado de Dasarrollo de Aplicaciones Multiplataforma (DAM), los detalles están todos recogidos en el pdf llamado Applimon Connect_Modulo Proyecto DAM.pdf (Github no lo puede mostrar por lo que tendrás que descargar el pdf para poder verlo).
 
 La aplicación hace uso de la base de datos PostgreSQL y de Laravel, éste último es explicado aquí:
 
